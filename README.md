@@ -10,3 +10,5 @@ vendaitem, campos idvendaitem, idvenda, idproduto, valorunitario, qtd, valortota
 vendas campos idvenda, valor, idempresa, idpessoa, datavenda.
 
 https://shouts.dev/add-or-remove-input-fields-dynamically-using-jquery
+
+https://pt.stackoverflow.com/questions/85554/como-incluir-uma-a%C3%A7%C3%A3o-no-bot%C3%A3o-de-cadastrar-com-html5
