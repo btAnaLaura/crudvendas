@@ -8,3 +8,5 @@ tabela pessoa, campos idpessoa, nome, sexo, criadoem, alteradoem, idempresa.
 vendaitem, campos idvendaitem, idvenda, idproduto, valorunitario, qtd, valortotalitem, criadoem, alteradoem, idpessoa. 
 
 vendas campos idvenda, valor, idempresa, idpessoa, datavenda.
+
+https://shouts.dev/add-or-remove-input-fields-dynamically-using-jquery
